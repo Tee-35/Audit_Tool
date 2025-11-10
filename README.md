@@ -7,7 +7,10 @@ The **Document Audit Tool** is a Python-based system that automatically detects 
 It’s designed to help teams, auditors, and writers **track document evolution** — identifying what changed, when, and how, all summarized in detailed CSV/JSON reports.
 
 To view the Python script click [here.](Code/Code.py)
- 
+
+
+<img width="989" height="590" alt="barchart" src="https://github.com/user-attachments/assets/2121cc4f-9d71-4218-8950-2fcefedd8b5d" />  
+
 ---
 
 ### ⚙️ Key Features
