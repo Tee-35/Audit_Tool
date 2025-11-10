@@ -1,9 +1,10 @@
-# 🎮  Playhub - Gamestore 
+## 🎮  Playhub - Gamestore - Project Background
 
-### 📄 Overview
+***Q1,Q2‑Review: Game Shop Sales Report Jan-Jun 2025***
 
-The **Document Audit Tool** is a Python-based system that automatically detects and reports changes in text documents across multiple versions.
 
+
+---
 
 To view data cleaning process using PANDAS click [here.](Dataset/README.md)
 
