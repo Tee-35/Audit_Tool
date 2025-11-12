@@ -6,7 +6,7 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 
 ---
 
-The Excel file used to inspect clean and analyse the data is [here](Dataset/unclean_data.csv).  
+The Excel file used to inspect clean and analyse the data is [here](Dataset).  
 
 To view data cleaning process using PANDAS click [here.](Dataset/README.md)
 
