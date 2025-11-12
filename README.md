@@ -10,9 +10,7 @@ The review will look at and provide recommdations the following key areas:
 • **Total Orders by Month:** a projection of the order volume from month to month.  
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
-The Excel file used to inspect clean and analyse the data is [here](Dataset).  
-
-To view data cleaning process using PANDAS click [here.](Dataset/README.md)
+The csv file used to inspect clean and analyse the data is [here](Dataset).  
 
 ---
 
