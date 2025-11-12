@@ -11,13 +11,24 @@ The Excel file used to inspect clean and analyse the data is [here](Dataset/uncl
 To view data cleaning process using PANDAS click [here.](Dataset/README.md)
 
 
-<img width="989" height="590" alt="barchart" src="https://github.com/user-attachments/assets/2121cc4f-9d71-4218-8950-2fcefedd8b5d" />  
-
 ---
 
 ==
 
----
+--
+
+Total sales 
+
+<img width="989" height="590" alt="Total Sales" src="https://github.com/user-attachments/assets/a7fd4a61-9e08-40cc-b291-74ac4a2951e8" />  
+
+Total orders by Month 
+
+<img width="989" height="590" alt="Monthly Order" src="https://github.com/user-attachments/assets/b8319df6-ddf2-413c-b1e9-129f4e868439" />  
+
+Sales Location 
+
+<img width="795" height="790" alt="Total Order by Location" src="https://github.com/user-attachments/assets/3c65ebe6-69f3-42cc-b1e5-80255cf62516" />  
+
 
 ### 
 
